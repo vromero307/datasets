@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Home-Page</title>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Notable&display=swap" rel="stylesheet">
+</head>
+
+<header class="primary-header container group">
+  <h1 class="logo"> 
+  <a href="index.html">BLAH <br> BLAH</a>
+  </h1>
+  
+  
+  <section class="hero container">
+    <h1>Two Datasets for You</h1>
+  </section>
+  <h3 class="tagline">Two Datasets are here</h3>
+</header>
+  
+  <section class="container">
+    <img src="GitHub/vromero307.github.io/images/AIC1.png" alt="DuVall and Cantrell">
+  <h2>The two datasets:</h2>
+  <p>My first graph depicts
+  </p>
+</section>
+<section>
+
+  <section class="container">
+    <a class="btn btn-alt" href="CagetheElephant.html"> 
+    <h5>Cage the Elephant</h5>
+      </a>
+    <h3>Next to make it big in rock n roll</h3>
+    <p>My second graph depicts</p>
+  </section>
+  
+  <section class="container">
+    <a class="btn btn-alt" href="AliceinChains.html"> 
+    <h5>Alice in Chains</h5>
+      </a>
+    <h3>Grunge legends</h3>
+    <p>Here is a link to the project webpage:</p>
+  </section>
+  
+  </section>
+  
+  </body>
+  
+  <footer class="primary-footer container group">
+    
+    <small>Datasets </small>
+    
+
+  </footer>
